@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tannen73
-- 👀 I’m interested in Kitesurfing
-- 🌱 I’m currently learning Go and Python
-- 💞️ I’m looking to collaborate on data sience and machine learing
+- 👀 I like Kitesurfing
+- 🌱 I’m currently learning Wing Foiling
+- 💞️ I’m looking to collaborate on data sience and machine learning
 - 📫 How to reach me ...
 
 <!---
